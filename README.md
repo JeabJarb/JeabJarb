@@ -1,4 +1,4 @@
-<h1 align="center">G'day 👋, I'm Krit Tassanaruck</h1>
+![image](https://github.com/user-attachments/assets/3bf5a4f1-d8f9-4952-963a-a029f1d91444)<h1 align="center">G'day 👋, I'm Krit Tassanaruck</h1>
 <h3 align="center">A passionate Full Stack Web developer from New Zealand!</h3>
 
 - 🔭 I’m currently working on **personal portfolio website**
@@ -18,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/krittassanaruck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krittassanaruck" height="30" width="40" /></a>
+<a href="https://steamcommunity.com/id/JeabJarb" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="jeabjarb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
