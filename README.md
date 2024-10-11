@@ -37,5 +37,5 @@
 </p>
 <h5 align="left">Tools:</h5>
 <p align="left"> 
-  <a href="https://skillicons.dev/icons?i=all" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode,npm,git,azure&perline=3" alt="myskills"/></a>
+  <a href="https://skillicons.dev/icons?i=all" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode,npm,git,azure,notion,windows&perline=3" alt="myskills"/></a>
 </p>
